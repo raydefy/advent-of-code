@@ -37,7 +37,7 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     shellany (0.0.1)
-    thor (0.20.3)
+    thor (1.4.0)
 
 PLATFORMS
   ruby
